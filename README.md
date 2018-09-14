@@ -6,7 +6,7 @@ Simple 1-Layer, **N Neurons Neural Network**.
 ### Simple_NN.py
 Contains all the functions building the Neural Network
 
-### utils_files.py
+### utils_file.py
 Contains functions for plotting and example dataset
 
 ### Functions_description
